@@ -9,6 +9,7 @@ Integrantes
 - Gustavo Joshua de Sene
 - Marcos Vinicio Pereira
 - Raian Silva Damaceno
+- Marcelo Pereira Fernandes
 
 ---------------------------------------------------------------
 Nome do Projeto : 
