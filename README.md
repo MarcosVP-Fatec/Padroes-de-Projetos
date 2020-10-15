@@ -1,4 +1,7 @@
-# Padroes-de-Projetos
+# Padroes-de-Projetos 
+
+Este projeto se encontra em (https://github.com/MarcosVP-Fatec/Saloon/blob/master/README.md)
+
 
 4º Banco de Dados - Fatec SJC - 2020/2
 
