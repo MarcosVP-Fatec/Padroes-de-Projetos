@@ -1,7 +1,9 @@
 # Padroes-de-Projetos 
 
-Este projeto se encontra em (https://github.com/MarcosVP-Fatec/Saloon/blob/master/README.md)
+Este projeto se encontra em repositórios diferentes devido a estudos necessários das partes
 
+Marcos = (https://github.com/MarcosVP-Fatec/Saloon/blob/master/README.md)
+Raian = (https://github.com/RaianDamaceno/Laboratorio-Desenvolvimento-Academia)
 
 4º Banco de Dados - Fatec SJC - 2020/2
 
